@@ -13,11 +13,10 @@
 ## 🧠 About Me
 
 - 🎓 Studying **CS + Linguistics** at **UCLA** (Class of 2029)
-- 🏥 Building novel **chest X-ray pathology detection** — beating prior literature AUC benchmarks
-- 🤖 Ex **AI Platform Engineer @ Team Sage** — agentic recruiting pipelines that cut review time ~70%
-- 🔬 **Stanford AIMI** alum (1–2% acceptance) — Vision Transformers for pneumonia detection at 0.955 AUC
-- 🧪 **MIT BWSI Cog\*Works** — trained CRNNs on 171K+ images for OCR sequence modeling
-- 🏢 **Google** High School Apprentice — full-stack scheduling app on Cloud Run
+- 🤖 Ex **AI Platform Engineer** @ **Team Sage**
+- ![MIT](https://img.shields.io/badge/MIT-A31F34?style=flat&logo=mit&logoColor=white) **Machine Learning Researcher** @ MIT Beaver Works Summer Institute
+- ![Stanford](https://img.shields.io/badge/Stanford-8C1515?style=flat&logoColor=white) **AI Research & Development Intern** @ Stanford Center for AI in Medicine and Imaging (AIMI)
+- ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) **Software Development Apprentice** @ Google
 
 ---
 
