@@ -5,7 +5,6 @@
 ### AI/ML Engineer · CS + Linguistics @ UCLA · Building things that matter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshkarnwal)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshkarnwal16@gmail.com)
 
 </div>
 
@@ -19,7 +18,6 @@
 - 🔬 **Stanford AIMI** alum (1–2% acceptance) — Vision Transformers for pneumonia detection at 0.955 AUC
 - 🧪 **MIT BWSI Cog\*Works** — trained CRNNs on 171K+ images for OCR sequence modeling
 - 🏢 **Google** High School Apprentice — full-stack scheduling app on Cloud Run
-- ⚡ Fun fact: I study **Linguistics** because understanding how humans communicate makes me a better AI engineer
 
 ---
 
@@ -28,6 +26,8 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -49,14 +49,7 @@
 
 ---
 
-## 🚀 Featured Project
 
-### 🫁 Chest X-Ray Pathology Detection
-> *PyTorch · NLP · LangChain · Hugging Face*
-
-Developed a novel label enhancement methodology using clinical report generation + NLP that **broke through years of stagnated benchmarks** — achieving **0.8752 AUC** vs. the 0.8541 prior literature standard. Built on insights from my Stanford AIMI internship.
-
----
 
 <div align="center">
 
