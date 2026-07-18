@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🎓 Studying **CS + Linguistics** at **UCLA**
-- 🤖 Ex **AI Platform Engineer** @ **Team Sage**
+- 🤖 Ex **AI Platform Engineer** @ **Stealth**
 - ![MIT](https://img.shields.io/badge/MIT-A31F34?style=flat&logo=mit&logoColor=white) **Machine Learning Researcher** @ MIT Beaver Works Summer Institute
 - ![Stanford](https://img.shields.io/badge/Stanford-8C1515?style=flat&logoColor=white) **AI Research & Development Intern** @ Stanford Center for AI in Medicine and Imaging (AIMI)
 - ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) **Software Engineer Apprentice** @ Google
